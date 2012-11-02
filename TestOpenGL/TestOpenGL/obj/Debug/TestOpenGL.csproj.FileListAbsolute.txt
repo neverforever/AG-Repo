@@ -1,0 +1,13 @@
+C:\Users\Danny\Documents\Projects\TestOpenGL\TestOpenGL\bin\Debug\TestOpenGL.dll
+C:\Users\Danny\Documents\Projects\TestOpenGL\TestOpenGL\bin\Debug\TestOpenGL.pdb
+C:\Users\Danny\Documents\Projects\TestOpenGL\TestOpenGL\bin\Debug\TestOpenGL.dll.mdb
+C:\Users\Danny\Documents\Projects\TestOpenGL\TestOpenGL\bin\Debug\TestOpenGL.TestOpenGL.apk
+C:\Users\Danny\Documents\Projects\TestOpenGL\TestOpenGL\bin\Debug\TestOpenGL.TestOpenGL-Signed.apk
+C:\Users\Danny\Documents\Projects\TestOpenGL\TestOpenGL\obj\Debug\TestOpenGL.dll
+C:\Users\Danny\Documents\Projects\TestOpenGL\TestOpenGL\obj\Debug\TestOpenGL.pdb
+C:\Users\Danny\Documents\Projects\TestOpenGL\TestOpenGL\obj\Debug\android\bin\TestOpenGL.TestOpenGL.apk
+C:\Users\Danny\Documents\Projects\TestOpenGL\TestOpenGL\obj\Debug\res\layout\main.axml
+C:\Users\Danny\Documents\Projects\TestOpenGL\TestOpenGL\obj\Debug\res\values\strings.xml
+C:\Users\Danny\Documents\Projects\TestOpenGL\TestOpenGL\obj\Debug\res\drawable\icon.png
+C:\Users\Danny\Documents\Projects\TestOpenGL\TestOpenGL\obj\Debug\R.cs.flag
+C:\Users\Danny\Documents\Projects\TestOpenGL\TestOpenGL\obj\Debug\uploadflags.txt

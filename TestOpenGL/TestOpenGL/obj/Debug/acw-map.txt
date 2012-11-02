@@ -1,0 +1,2 @@
+TestOpenGL.Activity1;testopengl.Activity1
+TestOpenGL.GLView1;testopengl.GLView1
